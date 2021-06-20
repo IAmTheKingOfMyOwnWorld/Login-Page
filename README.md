@@ -1,20 +1,19 @@
 # Login Form with React Hooks
 
-Username: Minimum 8 characters long  
-Email
-Password: Minimum 8 characters long  
-Confirm Password  
-Congratulations page on successfully registering  
+`Username` Minimum 8 characters long  
+`Email` abc@xyz.com  
+`Password` Minimum 8 characters long  
+`Confirm Password` matches Password  
+`Congratulations page` on successfully registering  
 
 ## Setting Up
 
 ### We’ll start by creating an empty project and installing necessary dependencies: 
 
-npx create-react-app tic_tac_toe  
-cd tic_tac_toe  
-npm i styled-components papercss react-modal
+npx create-react-app Forms  
+cd Forms  
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
